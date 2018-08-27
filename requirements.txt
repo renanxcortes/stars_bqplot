@@ -4,5 +4,4 @@ pysal
 geopandas
 numpy
 ipywidgets
-re
 scipy
