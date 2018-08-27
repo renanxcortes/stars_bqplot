@@ -1,0 +1,8 @@
+bqplot
+pandas
+pysal
+geopandas
+numpy
+ipywidgets
+re
+scipy
