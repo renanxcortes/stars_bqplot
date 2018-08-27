@@ -5,4 +5,4 @@ geopandas
 numpy
 ipywidgets
 scipy
-libpysal
+git+git://github.com/pysal/libpysal.git
