@@ -5,3 +5,4 @@ geopandas
 numpy
 ipywidgets
 scipy
+libpysal
