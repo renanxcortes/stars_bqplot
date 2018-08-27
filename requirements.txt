@@ -5,4 +5,4 @@ geopandas
 numpy
 ipywidgets
 scipy
-libpysal.weights.Contiguity
+libpysal
